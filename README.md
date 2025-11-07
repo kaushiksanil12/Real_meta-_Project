@@ -53,17 +53,6 @@ This repository uses Git submodules to organize different components:
 | Backend Services  | Node.js, Express, MongoDB           |
 | QR Code Generator | `qrcode` npm package                |
 
-## 🚀 Getting Started
-
-To clone this repository with submodules:
-```bash
-git clone --recurse-submodules https://github.com/<your-username>/Real_Meta.git
-```
-
-To initialize submodules after cloning:
-```bash
-git submodule update --init --recursive
-```
 
 ## 📌 Notes
 
