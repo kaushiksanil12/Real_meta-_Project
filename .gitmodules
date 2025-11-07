@@ -1,0 +1,12 @@
+[submodule "backend_02"]
+	path = backend_02
+	url = https://github.com/kaushiksanil12/backend_02.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/Jnaneshp/dashboard.git
+[submodule "hackothsavawebapp"]
+	path = hackothsavawebapp
+	url = https://github.com/Jnaneshp/hackothsavawebapp.git
+[submodule "realmeta_backend_1"]
+	path = realmeta_backend_1
+	url = https://github.com/kaushiksanil12/realmeta_backend_1.git
