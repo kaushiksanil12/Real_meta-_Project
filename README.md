@@ -13,10 +13,6 @@ This repository uses Git submodules to organize different components:
 - `User_backend`: Backend services for user interactions
 - `backend_02`, `dashboard`, `hackothsavawebapp`, `realmeta_backend_1`: Submodules linked to external repositories
 
-**You can add the admin dashboard link to your README like this: include the URL where it's hosted, along with a short description of its purpose.**
-
-Here’s an updated section to include in your `README.md`:
-
 ---
 
 ## 🌐 Live Demos
@@ -75,5 +71,3 @@ git submodule update --init --recursive
 - Dwell time is tracked using timestamped user interactions.
 
 ---
-
-Let me know if you'd like to add badges, contributor info, or setup instructions for each module. I can help polish this further!
