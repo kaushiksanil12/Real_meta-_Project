@@ -16,6 +16,7 @@ This repository uses Git submodules to organize different components:
 ---
 
 ## 🌐 Live Demos
+## Note :Backend takes time to restart from sleep state it will take atleast 2 mins for the server to start
 
 - **User Frontend**:https://hackothsavawebapp.onrender.com
   Interactive interface for museum visitors using Google Vision and Groq API.
